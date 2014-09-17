@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestTD</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="submit">Submit</string>
+    <string name="title_activity_play_screen">Play Screen</string>
+    <string name="title_activity_shoot">Shoot</string>
+
+</resources>
